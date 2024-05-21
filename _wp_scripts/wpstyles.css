@@ -1,0 +1,41 @@
+﻿body {margin:0;padding:0;word-wrap:break-word;}
+img {border:none;}
+input {border:1px solid black;border-radius:2px;padding:0;}
+input[type=image] { border: none; }
+textarea {border:1px solid black;padding:0;}
+* {box-sizing:content-box;-moz-box-sizing:content-box;-webkit-box-sizing:content-box;-ms-box-sizing:content-box;}
+a:link {color:#6666ff;text-decoration:underline;}
+a:active {color:#6666ff;text-decoration:underline;}
+a:hover {color:#6666ff;text-decoration:underline;}
+a:visited {color:#0000ff;text-decoration:underline;}
+.DefaultParagraph { text-align:left;margin:0px;text-indent:0.0px;line-height:1px;font-family:"Times New Roman", serif;font-style:normal;font-weight:normal;color:#000000;background-color:transparent;font-variant:normal;font-size:16.0px;vertical-align:0; }
+.Normal { text-align:left;margin:0px;text-indent:0.0px;line-height:1px;font-family:"Times New Roman", serif;font-style:normal;font-weight:normal;color:#000000;background-color:transparent;font-variant:normal;font-size:16.0px;vertical-align:0; }
+.Normal-36 { text-align:left;margin:0px;text-indent:0.0px;line-height:1px;font-family:"Times New Roman", serif;font-style:normal;font-weight:normal;color:#000000;background-color:transparent;font-variant:normal;font-size:16.0px;vertical-align:0; }
+.Normal-38 { text-align:left;margin:0px;text-indent:0.0px;line-height:1px;font-family:"Times New Roman", serif;font-style:normal;font-weight:normal;color:#000000;background-color:transparent;font-variant:normal;font-size:16.0px;vertical-align:0; }
+.Normal-39 { text-align:left;margin:0px;text-indent:0.0px;line-height:1px;font-family:"Times New Roman", serif;font-style:normal;font-weight:normal;color:#000000;background-color:transparent;font-variant:normal;font-size:16.0px;vertical-align:0; }
+.Normal-40 { text-align:left;margin:0px;text-indent:0.0px;line-height:1px;font-family:"Times New Roman", serif;font-style:normal;font-weight:normal;color:#000000;background-color:transparent;font-variant:normal;font-size:16.0px;vertical-align:0; }
+.Normal2 { text-align:left;margin:0px;text-indent:0.0px;line-height:1px;font-family:"Times New Roman", serif;font-style:normal;font-weight:normal;color:#000000;background-color:transparent;font-variant:normal;font-size:16.0px;vertical-align:0; }
+.Style-1-4 { text-align:justify;margin:0px;text-indent:14.4px;line-height:12.8px;font-family:"Times New Roman", serif;font-style:normal;font-weight:normal;color:#000000;background-color:transparent;font-variant:normal;font-size:16.0px;vertical-align:0; }
+.Style-1-42 { text-align:justify;margin:0px;text-indent:14.4px;line-height:12.8px;font-family:"Times New Roman", serif;font-style:normal;font-weight:normal;color:#000000;background-color:transparent;font-variant:normal;font-size:16.0px;vertical-align:0; }
+.Style-2-2 { text-align:justify;margin:0px 4px;text-indent:0.0px;line-height:16.0px;font-family:"Times New Roman", serif;font-style:normal;font-weight:normal;color:#000000;background-color:transparent;font-variant:normal;font-size:16.0px;vertical-align:0; }
+.Style-2-5 { text-align:justify;margin:0px;text-indent:14.4px;line-height:12.8px;font-family:"Times New Roman", serif;font-style:normal;font-weight:normal;color:#000000;background-color:transparent;font-variant:normal;font-size:16.0px;vertical-align:0; }
+.Style-2-6 { text-align:justify;margin:0px 0px 0px 4px;text-indent:9.6px;line-height:12.8px;font-family:"Times New Roman", serif;font-style:normal;font-weight:normal;color:#000000;background-color:transparent;font-variant:normal;font-size:16.0px;vertical-align:0; }
+.Style-2-62 { text-align:justify;margin:0px 0px 0px 4px;text-indent:9.6px;line-height:12.8px;font-family:"Times New Roman", serif;font-style:normal;font-weight:normal;color:#000000;background-color:transparent;font-variant:normal;font-size:16.0px;vertical-align:0; }
+.Style-3 { text-align:left;margin:48px 76px 0px 0px;text-indent:0.0px;line-height:1px;font-family:"Times New Roman", serif;font-style:normal;font-weight:normal;color:#000000;background-color:transparent;font-variant:normal;font-size:16.0px;vertical-align:0; }
+.Style-3:first-child { margin-top:0; }
+.Style-3-2 { text-align:left;margin:2px 0px 0px;text-indent:0.0px;line-height:1px;font-family:"Times New Roman", serif;font-style:normal;font-weight:normal;color:#000000;background-color:transparent;font-variant:normal;font-size:16.0px;vertical-align:0; }
+.Style-3-2:first-child { margin-top:0; }
+.Style-3-22 { text-align:left;margin:2px 0px 0px;text-indent:0.0px;line-height:1px;font-family:"Times New Roman", serif;font-style:normal;font-weight:normal;color:#000000;background-color:transparent;font-variant:normal;font-size:16.0px;vertical-align:0; }
+.Style-3-22:first-child { margin-top:0; }
+.Style-3-3 { text-align:left;margin:2px 0px 0px;text-indent:0.0px;line-height:12.8px;font-family:"Times New Roman", serif;font-style:normal;font-weight:normal;color:#000000;background-color:transparent;font-variant:normal;font-size:16.0px;vertical-align:0; }
+.Style-3-3:first-child { margin-top:0; }
+.Style-3-32 { text-align:left;margin:2px 0px 0px;text-indent:0.0px;line-height:12.8px;font-family:"Times New Roman", serif;font-style:normal;font-weight:normal;color:#000000;background-color:transparent;font-variant:normal;font-size:16.0px;vertical-align:0; }
+.Style-3-32:first-child { margin-top:0; }
+.Style-3-4 { text-align:center;margin:0px;text-indent:0.0px;line-height:1px;font-family:"Times New Roman", serif;font-style:normal;font-weight:normal;color:#000000;background-color:transparent;font-variant:normal;font-size:16.0px;vertical-align:0; }
+.Style-3-52 { text-align:justify;margin:0px;text-indent:14.4px;line-height:1px;font-family:"Times New Roman", serif;font-style:normal;font-weight:normal;color:#000000;background-color:transparent;font-variant:normal;font-size:16.0px;vertical-align:0; }
+.Style-4 { text-align:justify;margin:38px 4px 36px;text-indent:0.0px;line-height:16.0px;font-family:"Times New Roman", serif;font-style:normal;font-weight:normal;color:#000000;background-color:transparent;font-variant:normal;font-size:16.0px;vertical-align:0; }
+.Style-4:first-child { margin-top:0; }
+.Style-4-3 { text-align:center;margin:19px 0px 0px;text-indent:0.0px;line-height:1px;font-family:"Times New Roman", serif;font-style:normal;font-weight:normal;color:#000000;background-color:transparent;font-variant:normal;font-size:16.0px;vertical-align:0; }
+.Style-4-3:first-child { margin-top:0; }
+.Style-5-2 { text-align:justify;margin:0px 0px 520px;text-indent:14.4px;line-height:12.8px;font-family:"Times New Roman", serif;font-style:normal;font-weight:normal;color:#000000;background-color:transparent;font-variant:normal;font-size:16.0px;vertical-align:0; }
+.Style-6 { text-align:left;margin:0px 4px 0px 0px;text-indent:14.4px;line-height:1px;font-family:"Times New Roman", serif;font-style:normal;font-weight:normal;color:#000000;background-color:transparent;font-variant:normal;font-size:16.0px;vertical-align:0; }
